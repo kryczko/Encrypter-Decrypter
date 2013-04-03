@@ -1,4 +1,4 @@
 Encrypter-Decrypter
 ===================
 
-Encrypts or Decrypts simple text files.
+Same purpose as earlier encrypter/decrypter (encoder/decoder). Just updated with modules.
